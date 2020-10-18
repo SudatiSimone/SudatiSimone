@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=SudatiSimone&theme=blue-green)
+
+
+
 <!--
 **SudatiSimone/SudatiSimone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
