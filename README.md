@@ -7,8 +7,8 @@ I'm Simone, a Computer Engineering Student at the University of Bergamo(Dalmine)
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#43](https://github.com/fougue/mayo/issues/43) in [fougue/mayo](https://github.com/fougue/mayo)
 2. 🗣 Commented on [#43](https://github.com/fougue/mayo/issues/43) in [fougue/mayo](https://github.com/fougue/mayo)
-3. ❗️ Opened issue [#43](https://github.com/fougue/mayo/issues/43) in [fougue/mayo](https://github.com/fougue/mayo)
-4. ❗️ Closed issue [#40](https://github.com/fougue/mayo/issues/40) in [fougue/mayo](https://github.com/fougue/mayo)
-5. 🗣 Commented on [#40](https://github.com/fougue/mayo/issues/40) in [fougue/mayo](https://github.com/fougue/mayo)
+3. 🗣 Commented on [#43](https://github.com/fougue/mayo/issues/43) in [fougue/mayo](https://github.com/fougue/mayo)
+4. ❗️ Opened issue [#43](https://github.com/fougue/mayo/issues/43) in [fougue/mayo](https://github.com/fougue/mayo)
+5. ❗️ Closed issue [#40](https://github.com/fougue/mayo/issues/40) in [fougue/mayo](https://github.com/fougue/mayo)
 <!--END_SECTION:activity-->
 
