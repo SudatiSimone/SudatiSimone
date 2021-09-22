@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Simone, a Computer Engineering Student at the University of Bergamo(Dalmine).
+I'm Simone, a Software Architecture at Blue Reply.
 
 I'm keen on competitive programming (C++) and chess ♟️.
 
