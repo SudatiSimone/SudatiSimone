@@ -2,7 +2,7 @@
 
 I'm Simone, a Software Architecture at Blue Reply.
 
-I'm keen on competitive programming (C++) and chess ♟️.
+I'm keen on Cloud Computing and chess ♟️.
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=SudatiSimone&theme=white-blue) [![github stats](https://github-readme-stats.vercel.app/api?username=SudatiSimone&theme=white-blue)](https://github.com/anuraghazra/github-readme-stats)
 
