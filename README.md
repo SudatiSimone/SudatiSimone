@@ -45,12 +45,13 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=SudatiSimone&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudatiSimone&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SudatiSimone&theme=tokyo_night" alt="GitHub stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SudatiSimone&theme=tokyo_night" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SudatiSimone&theme=tokyo_night" alt="Most used languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SudatiSimone&theme=tokyo_night&utcOffset=1" alt="Productive time"/>
 </p>
 
 <p align="center">
